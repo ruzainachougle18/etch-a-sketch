@@ -1,2 +1,2 @@
 # etch-a-sketch
-Etch-A-Sketch game is created with HTML, CSS and Javascipt and bootstrap.
+Etch-A-Sketch game is created with HTML, CSS, Javascript and bootstrap.
